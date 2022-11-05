@@ -42,7 +42,7 @@ def main():
 			else:
 				print("Invalid input! Enter (Y/N) only.")
 				TryAgain()
-			TryAgain()
+		TryAgain()
 			
 	elif menu_option == 2:
 		insert_element = int(input("Enter the number you want to insert: "))
