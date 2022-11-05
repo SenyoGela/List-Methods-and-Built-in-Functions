@@ -3,7 +3,7 @@
 
 def main():
 	print("")
-	array = [0, 3, 5, 9, 10, 11, 17, 21, 26, 30]
+	array = [21, 3, 10, 9, 5, 11, 17, 9, 30, 26]
 	print("Array:", array)
 	print("")
 	print("************* MENU *************")
